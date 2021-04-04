@@ -36,5 +36,8 @@ let package = Package(
             .target(
                     name: "median_of_sorted_arrays",
                     dependencies: []),
+            .target(
+                    name: "string_to_integer_atoi",
+                    dependencies: []),
         ]
 )
